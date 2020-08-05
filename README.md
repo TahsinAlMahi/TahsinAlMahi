@@ -1,5 +1,4 @@
-### 👋 Hi there!
-### I am Tahsin Al Mahi.<br>
+### 👋 Hi there! I am Tahsin Al Mahi.
 
 **:wrench: Languages:**
 
