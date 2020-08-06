@@ -1,16 +1,11 @@
-### 👋 Hi there! I am Tahsin Al Mahi.
+### Tahsin Al Mahi.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TahsinAlMahi.TahsinAlMahi)<br>
 [![Facebook Badge](https://img.shields.io/twitter/url?label=Follow&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2Ftahsinalmahi)](https://facebook.com/tahsinalmahi)
-
-**:wrench: Languages:**
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><br>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"><br>
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown">
-
-**:pushpin: Profile Overview:**
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TahsinAlMahi.TahsinAlMahi)
 
 ![TahsinAlMahi GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahsinAlMahi&show_icons=true)
 
