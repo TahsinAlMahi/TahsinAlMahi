@@ -1,4 +1,5 @@
 ### 👋 Hi there! I am Tahsin Al Mahi.
+[![Facebook Badge](https://img.shields.io/twitter/url?label=Follow&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2Ftahsinalmahi)](https://facebook.com/tahsinalmahi)
 
 **:wrench: Languages:**
 
